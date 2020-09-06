@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="753ec347-5056-4097-854c-3c0bf13fd0ea" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h24vpIhO8KSfn3xcRi20d3Wkvb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/stackoverflow" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Chandan_Yadav\IdeaProjects" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.vitalum.Entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.vitalum.main" />
+      <module name="SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vitalum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="753ec347-5056-4097-854c-3c0bf13fd0ea" name="Default Changelist" comment="" />
+      <created>1599196086573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599196086573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1599202252003">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1599202252003" />
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599219556437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="162" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1599219556437" />
+    <state x="449" y="96" key="#com.intellij.unscramble.UnscrambleDialog" timestamp="1599201122201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="96" key="#com.intellij.unscramble.UnscrambleDialog/0.0.1536.824@0.0.1536.824" timestamp="1599201122201" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1599282962924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1599282962924" />
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom" timestamp="1599283371542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599283371542" />
+    <state width="1493" height="235" key="GridCell.Tab.0.center" timestamp="1599283371542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599283371542" />
+    <state width="1493" height="235" key="GridCell.Tab.0.left" timestamp="1599283371542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599283371542" />
+    <state width="1493" height="235" key="GridCell.Tab.0.right" timestamp="1599283371542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="235" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599283371542" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1599224011318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1599224011318" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1599228853962">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1599228853962" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1599228927580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1599228927580" />
+    <state x="209" y="120" key="new project wizard" timestamp="1599200076492">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="209" y="120" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1599200076492" />
+  </component>
+</project>
